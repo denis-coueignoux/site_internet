@@ -98,7 +98,7 @@ main {
 }
 p {
     padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+    padding-bottom: 2rem;
     font-size: calc(0.6rem + 0.8vw);
     width: 60%;
 }
@@ -110,7 +110,7 @@ img {
 .legendes {
     font-size: calc(0.1rem + 0.15rem);
     padding-top: 0.2rem;
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
 }
 .liste {
     font-size: calc(0.4rem + 0.5vw);
@@ -127,7 +127,7 @@ img {
     bottom: 70px;
 }
 article {
-    padding-bottom: 5rem;
+    padding-bottom: 1rem;
 }
 footer {
     padding-left: 0.7rem;
