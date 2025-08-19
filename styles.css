@@ -127,7 +127,7 @@ img {
     bottom: 70px;
 }
 article {
-    padding-bottom: 1rem;
+    padding-bottom: none;
 }
 footer {
     padding-left: 0.7rem;
